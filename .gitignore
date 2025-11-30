@@ -1,1 +1,45 @@
+# Dataset
 /tomato
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Results and Models
+results/
+models/
+*.h5
+*.pkl
+*.npy
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Word temporary files
+~$*.docx
+~$*.doc
+
+# Large files
+*.zip
+*.tar.gz
+*.rar

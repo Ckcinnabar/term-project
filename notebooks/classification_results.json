@@ -1,0 +1,9 @@
+{
+  "best_val_acc": 99.4,
+  "best_epoch": 19,
+  "total_training_time": 3538.935119152069,
+  "final_val_acc": 99.2,
+  "num_epochs": 20,
+  "batch_size": 32,
+  "learning_rate": 0.001
+}

@@ -1,0 +1,11 @@
+Class,Train,Validation,Total,Class_Short
+Tomato___Bacterial_spot,2000,200,2200,Bacterial spot
+Tomato___Early_blight,2000,200,2200,Early blight
+Tomato___healthy,2000,200,2200,healthy
+Tomato___Late_blight,1998,200,2198,Late blight
+Tomato___Leaf_Mold,2000,200,2200,Leaf Mold
+Tomato___Septoria_leaf_spot,2000,200,2200,Septoria leaf spot
+Tomato___Spider_mites Two-spotted_spider_mite,2000,200,2200,Spider mites Two-spotted spider mite
+Tomato___Target_Spot,2000,200,2200,Target Spot
+Tomato___Tomato_mosaic_virus,2000,200,2200,Tomato mosaic virus
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,2000,200,2200,Tomato Yellow Leaf Curl Virus

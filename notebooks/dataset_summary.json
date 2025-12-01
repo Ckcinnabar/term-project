@@ -1,0 +1,16 @@
+{
+  "total_images": 21998,
+  "n_classes": 10,
+  "train_images": 19998,
+  "val_images": 2000,
+  "typical_resolution": [
+    256,
+    256
+  ],
+  "avg_file_size_kb": 16.797412109375,
+  "color_means": {
+    "red": 114.50342987804878,
+    "green": 116.7004268292683,
+    "blue": 104.8351981707317
+  }
+}

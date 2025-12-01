@@ -932,13 +932,7 @@ This project is for academic purposes as part of the 2025 Term Paper Project.
 
 ---
 
-## Contact
 
-**Kuan-Chen, Chen**
-Email: your.email@university.edu
-GitHub: https://github.com/yourusername
-
----
 
 ## Acknowledgments
 

@@ -108,11 +108,11 @@ You can clearly see natural groupings emerging from the PCA-reduced feature spac
 
 ---
 
-## [Slide 14: Disease–Cluster Distribution] (25 seconds)
+## [Slide 14: Disease–Cluster Distribution] (45 seconds)
 
 This heatmap reveals fascinating disease-cluster relationships. Diseases are strongly aligned with specific texture groups.
 
-For example: Late blight predominantly maps to Cluster 2, which exhibits high complexity. Leaf Mold maps to Cluster 3, characterized by low vein density. Healthy leaves cluster in Cluster 1 with smooth, consistent texture.
+Let me walk through all five clusters: **Cluster 0**, with 114 samples, shows high roughness at 505 – this is a sandblasted surface analog, dominated by Tomato mosaic virus. **Cluster 1**, the largest at 129 samples, has medium roughness at 220 – a honed surface with directional grooves, mostly healthy leaves. **Cluster 2**, 139 samples, exhibits the highest roughness at 795 – also a sandblasted analog, primarily Target Spot disease. **Cluster 3**, 114 samples, shows high roughness at 488 and dense vein structure – sandblasted texture, dominated by Spider mites. Finally, **Cluster 4**, only 4 samples, has the lowest roughness at 171 with sparse veins – a dimpled texture, exclusively Leaf Mold.
 
 The key insight here is that even without disease labels, texture features alone reflect biological patterns. This validates our engineering application.
 
@@ -168,7 +168,7 @@ Thank you for your attention. If you're interested in exploring the code and dat
 
 ---
 
-**TOTAL ESTIMATED TIME: ~7 minutes 55 seconds**
+**TOTAL ESTIMATED TIME: ~8 minutes 15 seconds**
 
 ## Timing Breakdown:
 - Slide 1: 15s
@@ -183,14 +183,14 @@ Thank you for your attention. If you're interested in exploring the code and dat
 - Slide 10: 25s
 - Slide 11: 20s
 - Slide 12-13: 20s
-- Slide 14: 25s
+- Slide 14: 45s (detailed cluster breakdown)
 - Slide 15: 40s (corrected data emphasized)
 - Slide 16: 25s
 - Slide 17: 30s
 - Slide 18: 5s
 - Slide 19: 10s
 
-**Total: 475 seconds ≈ 7 min 55 sec**
+**Total: 495 seconds ≈ 8 min 15 sec**
 
 ---
 
